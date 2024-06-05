@@ -1,0 +1,3 @@
+/Users/hangyin/Desktop/cs5330_24spring/final_project/build/CMakeFiles/final_project.dir
+/Users/hangyin/Desktop/cs5330_24spring/final_project/build/CMakeFiles/edit_cache.dir
+/Users/hangyin/Desktop/cs5330_24spring/final_project/build/CMakeFiles/rebuild_cache.dir
